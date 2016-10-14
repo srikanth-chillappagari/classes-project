@@ -1,6 +1,6 @@
-#Java Project
+#classes Project
 
-*Project for creating Java applications which do coomon tasks.*
+*This project is for creating different classes.*
 
 **Java 7**
 
